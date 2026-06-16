@@ -51,7 +51,3 @@ You can view the system architecture diagram in the root of this project: `Healt
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
